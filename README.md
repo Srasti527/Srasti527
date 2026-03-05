@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00ff00&width=600&lines=Hi+there,+I'm+Srasti+👋;3rd+Year+CSE+Student+%7C+Aspiring+Full+Stack+Developer" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6a5acd&width=600&lines=Hi+there,+I'm+Tinku+👋;3rd+Year+CSE+Student+%7C+Aspiring+Full+Stack+Developer" alt="Typing SVG"/> 
 </p>
 
 <h3 align="center">Building Web Apps | MERN Stack | Coding Challenges | Sharing Tech Journey</h3>
