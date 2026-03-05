@@ -38,18 +38,14 @@ Small project exploring photography display layout.
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srasti527&show_icons=true&theme=tokyonight&hide_border=false" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srasti527&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srasti527&theme=react-dark&hide_border=false&area=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srasti527&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
