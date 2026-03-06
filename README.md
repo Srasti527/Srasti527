@@ -6,6 +6,11 @@
 
 ---
 
+<table>
+<tr>
+
+<td width="60%">
+
 ## 🌟 About Me
 - 💻 Passionate about creating **web apps and interactive projects**  
 - 🌱 Focused on **MERN Stack Development** and improving coding fundamentals  
@@ -15,10 +20,20 @@
 ---
 
 ## 🚀 Tech Stack
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode" height="40"/>
 </p>
 
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250">
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## 📂 Projects
