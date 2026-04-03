@@ -21,7 +21,6 @@
 
 ---
 ## 🚀 Tech Stack
-## 🚀 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,vercel,git,github,vscode" height="40"/>
 </p>
@@ -29,11 +28,6 @@
 ### 🔗 Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
 </p>
 
 ---
