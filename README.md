@@ -28,22 +28,6 @@
 
 ---
 
-## 📂 Projects
-### 🎮 Simon Game
-A memory game built using HTML, CSS & JavaScript.  
-
-🔗 [Live Demo](https://srasti527.github.io/Simon-game/)
- 
-💻 [Source Code](https://github.com/Srasti527/Simon-game.git)
-
-### 📸 Photography Practice
-Small project exploring photography display layout.  
-🔗 [Live Demo](https://srasti527.github.io/Clicked-by-Srasti/)
-
-💻 [Source Code](https://github.com/Srasti527/Clicked-by-Srasti.git)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
