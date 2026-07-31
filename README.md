@@ -41,22 +41,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srasti527&theme=react-dark&hide_border=false&area=true" />
 </p>
 
-
----
-
-## 📰 Published Content
-<p align="center">
-  <a href="https://x.com/TerminalThinker" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@srasti965" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
-*Sharing projects, coding tips, and motivational posts.*
-
----
-
 ## 🎯 What I Love Doing
 - 💻 Building interactive projects and web applications  
 - 🚀 Exploring new technologies  
