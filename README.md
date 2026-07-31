@@ -17,7 +17,6 @@
 - 💻 Passionate about creating **web apps and interactive projects**  
 - 🌱 Focused on **MERN Stack Development** and improving coding fundamentals  
 - ✍️ Sharing **daily tech journey on X** and writing articles on Medium  
-- 🎨 Exploring creative projects like **photography and interactive games**  
 
 ---
 ## 🚀 Tech Stack
